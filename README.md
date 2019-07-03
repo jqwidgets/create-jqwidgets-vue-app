@@ -1,4 +1,4 @@
-# create-jqwidgets-vue-app
+﻿# create-jqwidgets-vue-app
 Please refer to its documentation:
   - [Getting Started](https://github.com/jqwidgets/create-jqwidgets-vue-app/blob/master/README.md#getting-started) 
   - [jQWidgets Vue Documentation](http://www.jqwidgets.com/vue-components-documentation/)
@@ -44,8 +44,10 @@ my-app
 ├── node_modules
 ├── public
 ├── src
+├── .gitignore
 ├── babel.config.js
 ├── package.json
+├── package-lock.json
 ├── README.md
 ```
 
