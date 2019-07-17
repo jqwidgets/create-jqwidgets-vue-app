@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "jqwidgets-scripts": "^8.1.2",
+    "jqwidgets-scripts": "^8.1.4",
     "vue": "^2.6.10"
   },
   "devDependencies": {
